@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\evert\OneDrive\Área de Trabalho\Curso Java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1731228725.index
+2040177047.index
+3828757865.index
+589582706.index
+1478448355.index
+3742794273.index
+2814562770.index
+2814562770.index

@@ -1,0 +1,8 @@
+/**
+ * Validação de formulário
+ *@author 
+ */
+
+function validar(){
+	alert('teste')
+}

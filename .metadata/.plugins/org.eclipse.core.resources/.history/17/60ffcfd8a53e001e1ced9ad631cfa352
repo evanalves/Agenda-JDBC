@@ -1,0 +1,13 @@
+package model;
+
+public class DAO {
+	
+	/** Módulo de conexão **/
+	//parâmetros de conexão
+	
+	private String dirver = "com.mysql.cj.jdbc.Driver";
+	
+	
+	//métodos de conexão
+
+}

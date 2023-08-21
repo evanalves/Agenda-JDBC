@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Agenda de Contatos</title>
+<link rel="icon" href="imagens/favicon.png">
+<link rel="styleSheet" href="style.css">
+</head>
+<body>
+	<h1>Criar novo contato</h1>
+	<form name="frmContato" action=""></form>
+
+</body>
+</html>
