@@ -14,6 +14,8 @@ public class DAO {
 	private String password = "12001272";
 		
 	//métodos de conexão
+	
+	@SuppressWarnings("unused")
 	private Connection conectar() {
 		Connection con = null;
 		try {
