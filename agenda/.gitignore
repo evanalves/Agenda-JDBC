@@ -5,10 +5,10 @@ vendor/
 *.class
 # Para código C
 *.so
-# Para todos os arquivos e sub-pastas localizados na pasta bower_components/
-ower_components/
+# Para todos os arquivos e sub-pastas localizados na pasta bower_components
+ower_components
 
-.src/main
+src/main
 .project
 .classpath
 .settings
